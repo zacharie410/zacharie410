@@ -1,0 +1,41 @@
+/* body background */
+body {
+  background: #0d2c2c;
+}
+
+/* headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #d9c69a;
+}
+
+/* links */
+a {
+  color: #b2d8d8;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+}
+
+/* code blocks */
+pre, code {
+  background: #d9c69a;
+  color: #0d2c2c;
+  font-family: "Courier New", Courier, monospace;
+}
+
+/* buttons */
+.btn {
+  background: #b2d8d8;
+  color: #0d2c2c;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #fff;
+  color: #0d2c2c;
+}
