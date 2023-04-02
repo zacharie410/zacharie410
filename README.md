@@ -1,7 +1,11 @@
 <link rel="stylesheet" href="style.css">
 
 # Zacharie - Programmer
-Hello, I'm Zacharie, a programmer with a passion for AI, cybersecurity, and network architectures. With over 5 years of experience in the tech industry, I have worked on various projects, including state machine NPC modules and server management utilities.
+<div style="background-color: green; padding: 10px;">
+    <h1 style="color: white;">Hello, I'm Zacharie!</h1>
+    <p style="color: white;">I'm a passionate programmer with a strong interest in AI, cybersecurity, and network architectures. With years of experience in the tech industry, I've had the opportunity to work on a variety of projects ranging from state machine NPC modules to server management utilities.</p>
+</div>
+
 
 ## Approach
 I believe in continuous learning and growth through collaborative work on challenging projects. My approach is focused on attention to detail, strong problem-solving skills, and the ability to adapt to various project requirements.
