@@ -18,6 +18,11 @@ email `zacharie410@gmail.com`
 discord `zacky#3693`
 
 ## My Resources
+
+### HAL: Hybrid-AI-Layer
+[![HAL: Hybrid-AI-Layer](https://repository-images.githubusercontent.com/622633828/cf42215b-71d4-44a9-819e-8309a838720e)](https://github.com/zacharie410/HAL-Hybrid-AI-Layer)
+HAL, my pet project, the Hybrid Artificial-Intelligence Layer, is the future of artificial intelligence. It's a layered approach that combines different AI techniques to create a more complex and adaptable system. HAL's layers work together to gather data from the environment, interpret it, learn from it, and make informed decisions based on that knowledge.
+
 ### Hacking-Techniques-and-Countermeasures
 [![Hacking-Techniques-and-Countermeasures](https://repository-images.githubusercontent.com/622057779/ab853a45-fd9b-4d36-b588-01ea1739c3b9)](https://github.com/zacharie410/Hacking-Techniques-and-Countermeasures)
 This repository covers cybersecurity, including network infiltration techniques, prevention measures, and advanced obfuscation methods. It emphasizes physical and digital security and provides MASM and PowerShell code examples.
@@ -29,10 +34,6 @@ This repository explores common web application vulnerabilities and provides pra
 ### Cyberwarfare: Taking Down Power Grids
 [![Cyberwarfare: Taking Down Power Grids](https://repository-images.githubusercontent.com/622441500/edecc864-7e22-4d97-b983-784d851e0569)](https://github.com/zacharie410/Cyberwarfare-Taking-Down-Power-Grids)
 This repository explores the 2015 Ukraine power grid hack that left hundreds of thousands without heat. Including attack vectors and future countermeasures.
-
-### HAL: Hybrid-AI-Layer
-[![HAL: Hybrid-AI-Layer](https://repository-images.githubusercontent.com/622633828/cf42215b-71d4-44a9-819e-8309a838720e)](https://github.com/zacharie410/HAL-Hybrid-AI-Layer)
-HAL, my pet project, the Hybrid Artificial-Intelligence Layer, is the future of artificial intelligence. It's a layered approach that combines different AI techniques to create a more complex and adaptable system. HAL's layers work together to gather data from the environment, interpret it, learn from it, and make informed decisions based on that knowledge.
 
 ### Be sure to check out my pinned repositories as well!
 
