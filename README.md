@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" href="style.css">
 
 # Zacharie - Programmer
 Hello, I'm Zacharie, a programmer with a passion for AI, cybersecurity, and network architectures. With over 5 years of experience in the tech industry, I have worked on various projects, including state machine NPC modules and server management utilities.
