@@ -9,7 +9,7 @@ I believe in continuous learning and growth through collaborative work on challe
 My experience includes software engineering, AI, cybersecurity, and network architectures. I possess a solid foundation in programming languages, algorithms, and design patterns, as well as the ability to write efficient and reliable code.
 
 ## Memorable Experience
-One of my most memorable experiences was working on a state machine NPC module for a video game. Despite facing unexpected challenges, including a persistent bug that kept causing test NPCs to disappear, our team persevered and delivered a fully functional module that greatly enhanced the game's AI.
+One of my most memorable experiences was working on securing customer data on a large-scale network. Despite facing unexpected challenges, including a persistent cyber attack that threatened to compromise the network, our team was able to develop and implement a robust security system that greatly enhanced the network's defenses.
 
 ## Let's Connect!
 I am always open to collaborating on new projects and expanding my network. If you are interested in working together or would like to discuss new ideas, feel free to reach out to me:
