@@ -1,10 +1,5 @@
-<link rel="stylesheet" href="style.css">
-
 # Zacharie - Programmer
-<div style="background-color: green; padding: 10px;">
-    <h1 style="color: white;">Hello, I'm Zacharie!</h1>
-    <p style="color: white;">I'm a passionate programmer with a strong interest in AI, cybersecurity, and network architectures. With years of experience in the tech industry, I've had the opportunity to work on a variety of projects ranging from state machine NPC modules to server management utilities.</p>
-</div>
+Hello, I'm Zacharie, a passionate programmer with interests in AI, cybersecurity, and network architectures. With over 5 years of experience in the tech industry, I have worked on various projects, including state machine NPC modules and server management utilities.
 
 
 ## Approach
@@ -18,5 +13,6 @@ One of my most memorable experiences was working on a state machine NPC module f
 
 ## Let's Connect!
 I am always open to collaborating on new projects and expanding my network. If you are interested in working together or would like to discuss new ideas, feel free to reach out to me.
+
 
 ![Zacharie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharie410&show_icons=true&theme=radical)
