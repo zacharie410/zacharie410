@@ -17,11 +17,14 @@ I am always open to collaborating on new projects and expanding my network. If y
 email `zacharie410@gmail.com`
 discord `zacky#3693`
 
-# Hacking-Techniques-and-Countermeasures
+## Projects
+### Hacking-Techniques-and-Countermeasures
 [![Hacking-Techniques-and-Countermeasures](https://repository-images.githubusercontent.com/622057779/ab853a45-fd9b-4d36-b588-01ea1739c3b9)](https://github.com/zacharie410/Hacking-Techniques-and-Countermeasures)
 
-# Exploiting Web Apps
+### Exploiting Web Apps
 [![Exploiting Web Apps](https://repository-images.githubusercontent.com/622394912/301461ed-d8e4-47de-896b-275e8ca11e80)](https://github.com/zacharie410/Exploiting-Web-Apps)
+
+Check out my pinned repositories as well!
 
 # Stats
 ![Zacharie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharie410&show_icons=true&theme=radical)
