@@ -27,6 +27,9 @@ discord `zacky#3693`
 ### Cyberwarfare: Taking Down Power Grids
 [![Cyberwarfare: Taking Down Power Grids](https://repository-images.githubusercontent.com/622441500/edecc864-7e22-4d97-b983-784d851e0569)](https://github.com/zacharie410/Cyberwarfare-Taking-Down-Power-Grids)
 
+### HAL: Hybrid-AI-Layer
+[![HAL: Hybrid-AI-Layer](https://repository-images.githubusercontent.com/622633828/cf42215b-71d4-44a9-819e-8309a838720e)](https://github.com/zacharie410/HAL-Hybrid-AI-Layer)
+
 Check out my pinned repositories as well!
 
 # Stats
