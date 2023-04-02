@@ -24,6 +24,9 @@ discord `zacky#3693`
 ### Exploiting Web Apps
 [![Exploiting Web Apps](https://repository-images.githubusercontent.com/622394912/301461ed-d8e4-47de-896b-275e8ca11e80)](https://github.com/zacharie410/Exploiting-Web-Apps)
 
+### Cyberwarfare: Taking Down Power Grids
+[![Cyberwarfare: Taking Down Power Grids](https://repository-images.githubusercontent.com/622441500/edecc864-7e22-4d97-b983-784d851e0569)](https://github.com/zacharie410/Cyberwarfare-Taking-Down-Power-Grids)
+
 Check out my pinned repositories as well!
 
 # Stats
