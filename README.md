@@ -17,7 +17,7 @@ I am always open to collaborating on new projects and expanding my network. If y
 email `zacharie410@gmail.com`
 discord `zacky#3693`
 
-## Projects
+## My Resources
 ### Hacking-Techniques-and-Countermeasures
 [![Hacking-Techniques-and-Countermeasures](https://repository-images.githubusercontent.com/622057779/ab853a45-fd9b-4d36-b588-01ea1739c3b9)](https://github.com/zacharie410/Hacking-Techniques-and-Countermeasures)
 
