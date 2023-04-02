@@ -13,6 +13,7 @@ One of my most memorable experiences was working on a state machine NPC module f
 
 ## Let's Connect!
 I am always open to collaborating on new projects and expanding my network. If you are interested in working together or would like to discuss new ideas, feel free to reach out to me:
+
 email `zacharie410@gmail.com`
 discord `zacky#3693`
 
