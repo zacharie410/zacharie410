@@ -25,7 +25,7 @@ HAL, my pet project, the Hybrid Artificial-Intelligence Layer, is the future of 
 
 Be sure to check out the live page and see what HAL demo can do!
 
-### HASA: Hybrid AI Server Architectur
+### HASA: Hybrid AI Server Architecture
 [![Hybrid AI Server Architecture](https://repository-images.githubusercontent.com/622753263/14f21d37-0d5f-4510-b3d2-24a47103edea)](https://github.com/zacharie410/Hybrid-AI-Server-Architecture)
 HASA (Hybrid AI Server Architecture) is a framework for building scalable and robust AI systems. The architecture is designed to leverage the strengths of both server-side and client-side processing, allowing for efficient and cost-effective AI development.
 
