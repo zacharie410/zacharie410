@@ -38,7 +38,7 @@ This repository covers cybersecurity, including network infiltration techniques,
 This repository explores common web application vulnerabilities and provides practical tips on how to protect against them. It includes examples of real-world attacks and step-by-step instructions on how to exploit vulnerabilities in a safe and controlled environment.
 
 ### Cyberwarfare: Taking Down Power Grids
-[![Cyberwarfare: Taking Down Power Grids](https://repository-images.githubusercontent.com/622441500/08112e1f-290b-438a-b34f-136a57415873)](https://github.com/zacharie410/Cyberwarfare-Taking-Down-Power-Grids)
+[![Cyberwarfare: Taking Down Power Grids](https://repository-images.githubusercontent.com/622441500/d8864885-155c-4a1e-9895-2ed66c0e318f)](https://github.com/zacharie410/Cyberwarfare-Taking-Down-Power-Grids)
 This repository explores the 2015 Ukraine power grid hack that left hundreds of thousands without heat. Including attack vectors and future countermeasures.
 
 ### Be sure to check out my pinned repositories as well!
