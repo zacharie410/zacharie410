@@ -18,7 +18,7 @@ email `zacharie410@gmail.com`
 discord `zacky#3693`
 
 ## My Resources
-
+Licensed Apache 2.0
 ### HAL: Hybrid-AI-Layer
 [![HAL: Hybrid-AI-Layer](https://repository-images.githubusercontent.com/622633828/cf42215b-71d4-44a9-819e-8309a838720e)](https://github.com/zacharie410/HAL-Hybrid-AI-Layer)
 HAL, my pet project, the Hybrid Artificial-Intelligence Layer, is the future of artificial intelligence. It's a layered approach that combines different AI techniques to create a more complex and adaptable system. HAL's layers work together to gather data from the environment, interpret it, learn from it, and make informed decisions based on that knowledge.
