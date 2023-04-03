@@ -25,6 +25,10 @@ HAL, my pet project, the Hybrid Artificial-Intelligence Layer, is the future of 
 
 Be sure to check out the live demo and see what HAL can do with such limited resources.
 
+### HASA: Hybrid AI Server Architectur
+[![Hybrid AI Server Architecture](https://repository-images.githubusercontent.com/622753263/14f21d37-0d5f-4510-b3d2-24a47103edea)]([https://github.com/zacharie410/HAL-Hybrid-AI-Layer](https://github.com/zacharie410/Hybrid-AI-Server-Architecture))
+HASA (Hybrid AI Server Architecture) is a framework for building scalable and robust AI systems. The architecture is designed to leverage the strengths of both server-side and client-side processing, allowing for efficient and cost-effective AI development.
+
 ### Hacking-Techniques-and-Countermeasures
 [![Hacking-Techniques-and-Countermeasures](https://repository-images.githubusercontent.com/622057779/ab853a45-fd9b-4d36-b588-01ea1739c3b9)](https://github.com/zacharie410/Hacking-Techniques-and-Countermeasures)
 This repository covers cybersecurity, including network infiltration techniques, prevention measures, and advanced obfuscation methods. It emphasizes physical and digital security and provides MASM and PowerShell code examples.
