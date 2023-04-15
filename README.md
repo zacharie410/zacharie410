@@ -29,6 +29,10 @@ Be sure to check out the live page and see what HAL demo can do!
 [![Hybrid AI Server Architecture](https://repository-images.githubusercontent.com/622753263/14f21d37-0d5f-4510-b3d2-24a47103edea)](https://github.com/zacharie410/Hybrid-AI-Server-Architecture)
 HASA (Hybrid AI Server Architecture) is a framework for building scalable and robust AI systems. The architecture is designed to leverage the strengths of both server-side and client-side processing, allowing for efficient and cost-effective AI development.
 
+### MOP: Memory Optimizer Pro
+[![MOP](https://repository-images.githubusercontent.com/622679039/b9e6eb1a-def5-45b4-bfda-4d5d6f547cf4)](https://github.com/zacharie410/Memory-Optimizer-Pro)
+Memory Optimizer Pro is a PowerShell script designed to optimize your system's memory usage by clearing the working set of processes. It helps free up memory resources, making your system run more efficiently. The script allows you to whitelist specific processes to prevent their working sets from being cleared.
+
 ### Hacking-Techniques-and-Countermeasures
 [![Hacking-Techniques-and-Countermeasures](https://repository-images.githubusercontent.com/622057779/ab853a45-fd9b-4d36-b588-01ea1739c3b9)](https://github.com/zacharie410/Hacking-Techniques-and-Countermeasures)
 This repository covers cybersecurity, including network infiltration techniques, prevention measures, and advanced obfuscation methods. It emphasizes physical and digital security and provides MASM and PowerShell code examples.
