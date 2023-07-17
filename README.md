@@ -21,7 +21,7 @@ discord `zacky#3693`
 Licensed Apache 2.0
 
 ### RODA: Roblox Developer Assistant
-[![RODA](https://repository-images.githubusercontent.com/665948509/b916f851-57d2-44fe-aa75-f51b8c8fc60f)](https://github.com/zacharie410/RODA--Roblox-Developer-Assistant/settings)
+[![RODA](https://repository-images.githubusercontent.com/665948509/b916f851-57d2-44fe-aa75-f51b8c8fc60f)](https://github.com/zacharie410/RODA--Roblox-Developer-Assistant)
 RODA (Roblox Developer Assistant) is a desktop app designed to streamline the management of Roblox projects. With features like project creation, RBXLX import, install manager, and automatic Rojo syncing, RODA simplifies the workflow of Roblox developers, making project organization and asset management more efficient.
 
 ### A3SCI: Arma 3 Server Control Interface
