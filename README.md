@@ -20,9 +20,9 @@ discord `zacky#3693`
 ## My Resources
 Licensed Apache 2.0
 
-### MOP: Memory Optimizer Pro
-[![MOP](https://repository-images.githubusercontent.com/622679039/b9e6eb1a-def5-45b4-bfda-4d5d6f547cf4)](https://github.com/zacharie410/Memory-Optimizer-Pro)
-Memory Optimizer Pro is a PowerShell script designed to optimize your system's memory usage by clearing the working set of processes. It helps free up memory resources, making your system run more efficiently. The script allows you to whitelist specific processes to prevent their working sets from being cleared.
+### RODA: Roblox Developer Assistant
+[![RODA](https://repository-images.githubusercontent.com/665948509/b916f851-57d2-44fe-aa75-f51b8c8fc60f)](https://github.com/zacharie410/RODA--Roblox-Developer-Assistant/settings)
+RODA (Roblox Developer Assistant) is a desktop app designed to streamline the management of Roblox projects. With features like project creation, RBXLX import, install manager, and automatic Rojo syncing, RODA simplifies the workflow of Roblox developers, making project organization and asset management more efficient.
 
 ### A3SCI: Arma 3 Server Control Interface
 [![A3SCI](https://repository-images.githubusercontent.com/613191486/7e889120-a63a-4198-a5ea-f5bb5cfc8ed3)](https://github.com/zacharie410/ARMA-3-Server-Control-Interface)
