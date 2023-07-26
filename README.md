@@ -1,6 +1,8 @@
 # Zacharie - Programmer
 Hello, I'm Zacharie, a passionate programmer with interests in AI, cybersecurity, and network architectures. With years of experience in the tech industry, I have worked on various projects, including state machine NPC modules and server management utilities.
 
+## Portfolio
+Check out my [portfolio here.](https://zacharie410.github.io/)
 
 ## Approach
 I believe in continuous learning and growth through collaborative work on challenging projects. My approach is focused on attention to detail, strong problem-solving skills, and the ability to adapt to various project requirements.
