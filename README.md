@@ -1,5 +1,9 @@
 # Zacharie - Programmer
-Hello, I'm Zacharie, a passionate programmer with interests in AI, cybersecurity, and network architectures. With years of experience in the tech industry, I have worked on various projects, including state machine NPC modules and server management utilities.
+Hello, I'm Zacharie, a passionate programmer with interests in AI, cybersecurity, and network architectures. With years of experience in the tech industry, I have worked many roles including:
+Software Engineering Consultant
+Course Instructor (K-12), Educational Technology
+Freelance Video Game Programmer
+Video Game Programmer
 
 ## Portfolio
 Check out my [portfolio here.](https://zacharie410.github.io/)
